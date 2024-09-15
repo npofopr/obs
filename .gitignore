@@ -17,3 +17,9 @@
 .stfolder
 .stversions
 Курсовая
+
+
+
+
+# Ignore Smart Connections folder
+.smart-connections
